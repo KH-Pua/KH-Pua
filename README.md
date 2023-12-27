@@ -1,5 +1,4 @@
-### 👋 Hi there, I'm Kee Hui. 
-An architect that codes.
+# 👋 Hi there, I'm Kee Hui. An architect that codes.
 
 I'm an aspiring software engineer with background in architecture degree from Tsinghua University. I have experienced in full-stack software development (ReactJS, NodeJS, JavaScript, TypeScript, PostgreSQL and etc.) and visual programming language (Grasshopper). I am interested to pursue my future endeavor in Fintech, Banking & Ecommerce landscape.
 
