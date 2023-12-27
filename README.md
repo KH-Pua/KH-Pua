@@ -2,14 +2,14 @@
 
 I'm an aspiring software engineer with background in architecture degree from Tsinghua University. I have experienced in full-stack software development and interested to pursue my future endeavor in Fintech, Banking & Ecommerce landscape.
 
-- 🔭 I’m currently working on [bitjar.xyz](https://bitjar.xyz/) - one-stop shop for diving into the world of cryptocurrency
+- 🔭 I’m currently working on [bitjar.xyz](https://bitjar.xyz/){:target="_blank"} - one-stop shop for diving into the world of cryptocurrency
 - 🌱 I’m currently learning TypeScript & Golang
 - 📫 Feel free to reach me at this [email](mailto:keehui.pua@gmail.com)
 
 ### Past Projects:
-- **[powderful.xyz](https://powderful.xyz)**: An accommodation reservation platform that focuses on serving ski-lovers in Niseko, Hokkaido.
-- **[globalgems](https://globalgems.netlify.app)**: A discovery platform that helps both local and tourist to discover hidden attractions around Hong Kong.
-- **[uplayiguess](https://kh-pua.github.io/uplayiguess/)**: A song guessing game built on React, powered by Spotify.
+- **[powderful.xyz](https://powderful.xyz){:target="_blank"}**: An accommodation reservation platform that focuses on serving ski-lovers in Niseko, Hokkaido.
+- **[globalgems](https://globalgems.netlify.app){:target="_blank"}**: A discovery platform that helps both local and tourist to discover hidden attractions around Hong Kong.
+- **[uplayiguess](https://kh-pua.github.io/uplayiguess/){:target="_blank"}**: A song guessing game built on React, powered by Spotify.
 
 ### Tech Stacks:
 - **Languages**: JavaScript, TypeScript, Python, C, HTML, CSS, SQL
