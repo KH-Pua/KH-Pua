@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Kee Hui. An architect that codes.
 
-I'm an aspiring software engineer with background in architecture degree from Tsinghua University. I have experienced in full-stack software development and interested to pursue my future endeavor in Fintech, Banking & Ecommerce landscape.
+I'm a software engineer with background in architecture degree from Tsinghua University. I have experienced in full-stack software development and interested to pursue my future endeavor in Fintech, Banking & Ecommerce landscape.
 
 - 🔭 I’m currently working on [bitjar.xyz](https://bitjar.xyz/) - one-stop shop for diving into the world of cryptocurrency
 - 🌱 Learning TypeScript & Golang
