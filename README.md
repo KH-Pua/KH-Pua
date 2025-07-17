@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kee Hui
 
-** Web3 Software Engineer | Full-Stack Developer 
+**Web3 Software Engineer | Full-Stack Developer**
 
 I'm a software engineer with an architectural background from Tsinghua University, specializing in full-stack development with a focus on blockchain, fintech, and decentralized applications. Currently building innovative solutions in the Web3 space while exploring opportunities in fintech, banking, and e-commerce.
 
