@@ -1,20 +1,67 @@
-## 👋 Hi there, I'm Kee Hui. An architect that codes.
+# 👋 Hi there, I'm Kee Hui
 
-I'm a software engineer with background in architecture degree from Tsinghua University. I have experienced in full-stack software development and interested to pursue my future endeavor in Fintech, Banking & Ecommerce landscape.
+** Web3 Software Engineer | Full-Stack Developer 
 
-- 🔭 I’m currently working on [bitjar.xyz](https://bitjar.xyz/) - one-stop shop for diving into the world of cryptocurrency
-- 🌱 Learning TypeScript & Golang
-- 📫 Feel free to reach me at this [email](mailto:keehui.pua@gmail.com)
+I'm a software engineer with an architectural background from Tsinghua University, specializing in full-stack development with a focus on blockchain, fintech, and decentralized applications. Currently building innovative solutions in the Web3 space while exploring opportunities in fintech, banking, and e-commerce.
 
-### Past Projects:
-- **[powderful.xyz](https://powderful.xyz)**: An accommodation reservation platform that focuses on serving ski-lovers in Niseko, Hokkaido.
-- **[globalgems](https://globalgems.netlify.app)**: A discovery platform that helps both local and tourist to discover hidden attractions around Hong Kong.
-- **[uplayiguess](https://kh-pua.github.io/uplayiguess/)**: A song guessing game built on React, powered by Spotify.
+## 🔭 Current Focus
+- **Software Engineer** at Techtics Solutions, developing blockchain-based NFT marketplaces and membership systems
+- Building [SecondSwap](https://secondswap.io/) - a secondary token marketplace for locked tokens
+- Contributing to [BidNow NFT Marketplace](https://dev.bidrwa.io/) - tokenized real estate with fractional ownership
 
-### Tech Stacks:
-- **Languages**: JavaScript, TypeScript, Python, C, HTML, CSS, SQL
-- **FE**: React, Tailwind CSS, Django, Flask, Framer Motion
-- **BE**: Node.Js, Express.Js, Firebase, Sequelize, JWT, OAuth, PostgreSQL, Fly.io
+## 🌱 Learning & Growth
+- Advanced TypeScript patterns and architecture
+- Blockchain development and smart contract integration
+- Database optimization and performance tuning
+- Modern authentication systems and security practices
+
+## 🚀 Featured Projects
+
+### Professional Projects
+- **[BidNow NFT Marketplace](https://dev.bidrwa.io/)** - Blockchain-based NFT marketplace for tokenized real estate with fractional ownership and yield generation
+- **[SecondSwap](https://secondswap.io/)** - Secondary token marketplace for locked tokens with Web3 wallet integration
+- **[MoonToy](https://moontoy.com/)** - Decentralized platform for token minting and trading with bonding curves
+
+### Personal Projects
+- **[Bitjar](https://bitjar.xyz/)** - Non-custodial crypto platform for buying, swapping, and earning with AAVE and 0x integration
+- **[Powderful](https://powderful.xyz/)** - Accommodation reservation platform for ski enthusiasts in Niseko, Hokkaido
+- **[GlobalGems](https://globalgems.netlify.app)** - Discovery platform for hidden attractions in Hong Kong
+- **[UPlayIGuess](https://kh-pua.github.io/uplayiguess/)** - Interactive song guessing game powered by Spotify API
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript, TypeScript, Python, PHP, SQL, C, HTML, CSS
+
+**Frontend**
+- React, Vue.js, Tailwind CSS, Django, Flask, Framer Motion
+
+**Backend**
+- Node.js, Express.js, Nest.js, Laravel
+- MySQL, PostgreSQL, TypeORM, Eloquent ORM, Sequelize
+- Docker, JWT Authentication, OAuth
+
+**Blockchain & Web3**
+- Moralis, WalletConnect, Smart Contract Integration
+- DeFi protocols (AAVE, 0x), NFT marketplaces
+
+**Cloud & DevOps**
+- Docker containerization, Database optimization
+- Payment gateway integration (iPay88)
+- Real-time data pipelines and API integration
+
+## 🏆 Key Achievements
+- Improved database query performance by 30% using materialized views
+- Reduced page load time by 15% through optimized state management
+- Implemented end-to-end payment systems with automated reconciliation
+- Built secure eKYC verification systems with asynchronous processing
+
+## 📫 Let's Connect
+- **Email**: [keehui.pua@gmail.com](mailto:keehui.pua@gmail.com)
+
+---
+
+*"Bridging the gap between architectural thinking and software engineering - building scalable, user-centric solutions in the digital world."*
 
 <!--
 **KH-Pua/KH-Pua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
